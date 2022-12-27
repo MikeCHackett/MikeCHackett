@@ -1,9 +1,9 @@
 
-# 👋 Hi, I'm @MikeCHackett
+#  🤘 Hi, I'm @MikeCHackett
 
 Professional web developer with a strong focus on front-end development and design. Skilled in HTML, CSS, JavaScript, and a variety of modern web development frameworks and tools.
 
-## 👀 Current Skills
+##  ☑️ Current Skills
 
 - HTML
 - CSS
@@ -14,16 +14,16 @@ Professional web developer with a strong focus on front-end development and desi
 - Node.js
 - Express
 - MongoDB
+ 
+##  🧠 I’m currently learning
 
-## 🌱 I’m currently learning
-
--TypeScript
--DevOps
--MySql
--C#
--Java
--Angular
--Vue.js
+- TypeScript
+- DevOps
+- MySql
+- C#
+- Java
+- Angular
+- Vue.js
 
 ##  🎖️ Experience
 
@@ -31,12 +31,12 @@ Professional web developer with a strong focus on front-end development and desi
 - Worked on a variety of projects ranging from small business websites to scaling large business websites
 - Strong portfolio of completed projects
 
-## 🗒️ Education
+##  📝 Education
 
 - Associates in Culinary Arts Management from Hillsborough Community College
 - Professional Certificate in Full Stack Web Development with MiT xPro
 
-## 📫 Contact
+##  📲 Contact
 
 Feel free to reach out to me through my LinkedIn or email if you have any questions or would like to discuss potential opportunities.
 
